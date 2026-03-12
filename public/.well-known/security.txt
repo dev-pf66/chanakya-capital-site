@@ -1,0 +1,5 @@
+# Chanakya Capital Security Contact
+Contact: mailto:dev@chanakya.capital
+Contact: tel:+919820059357
+Preferred-Languages: en
+Canonical: https://chanakya.capital/.well-known/security.txt

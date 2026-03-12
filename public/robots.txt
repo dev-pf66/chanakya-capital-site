@@ -1,0 +1,5 @@
+# Chanakya Capital
+User-agent: *
+Allow: /
+
+Sitemap: https://chanakya.capital/sitemap.xml
